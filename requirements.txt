@@ -1,0 +1,4 @@
+https://github.com/pytgcalls/pytgcalls/releases/download/v2.1.0/pytgcalls-2.1.0-py3-none-any.whl
+pyrogram==2.0.102
+tgcrypto==1.2.5
+yt-dlp
